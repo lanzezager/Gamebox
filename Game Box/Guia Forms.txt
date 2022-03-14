@@ -1,0 +1,16 @@
+Form    |  Contenido                   
+---------------------------------------
+01      | Principal
+02      | Carrito
+03      | Ayuda
+04      | Acerca de ...
+05      | Panel Gerente
+06      | Login
+07      | Nuevo Usuario
+08      | Detalle Usuario
+09      | Modificar Usuario
+10      | Eliminar Usuario
+11      | Nuevos Productos / Modificar Productos / Detalle Producto
+12      | Eliminar Productos / Clientes
+13      | Nuevos Clientes / Modificar Clientes
+14      | Detalle de Venta

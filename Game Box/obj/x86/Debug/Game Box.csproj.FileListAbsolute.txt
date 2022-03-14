@@ -1,0 +1,148 @@
+c:\users\lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form1.resources
+c:\users\lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Properties.Resources.resources
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.exe.config
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.exe
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.pdb
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Media Box.exe
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Media Box.pdb
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\bin\Debug\MediaContent.accdb
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form2.resources
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form3.resources
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form4.resources
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.exe.manifest
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.application
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Media Box.exe.manifest
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Media Box.application
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form5.resources
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form6.resources
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form7.resources
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form8.resources
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form9.resources
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form10.resources
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form11.resources
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Mono.Security.dll
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Npgsql.dll
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Npgsql.pdb
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Npgsql.xml
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form12.resources
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form13.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\MediaContent.accdb
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.exe.config
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.exe.manifest
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.application
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.exe
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Media Box.pdb
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Mono.Security.dll
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Npgsql.dll
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Npgsql.pdb
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\Npgsql.xml
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\de\Npgsql.resources.dll
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\es\Npgsql.resources.dll
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\fi\Npgsql.resources.dll
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\fr\Npgsql.resources.dll
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\ja\Npgsql.resources.dll
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form1.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form10.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form11.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form12.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form13.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form2.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form3.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form4.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form5.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form6.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form7.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form8.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form9.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Properties.Resources.resources
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Media Box.exe.manifest
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Media Box.application
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Media Box.exe
+E:\Users\Lanze\Documents\Visual Studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Media Box.pdb
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\Lanze\documents\visual studio 2010\Projects\Game Box\Game Box\obj\x86\Debug\Game_Box.Form14.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.exe.config
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Media Box.exe
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Media Box.pdb
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\MediaContent.accdb
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.exe.manifest
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.application
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.exe
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.pdb
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\Npgsql.pdb
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\Npgsql.xml
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\de\Npgsql.resources.dll
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\es\Npgsql.resources.dll
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\fi\Npgsql.resources.dll
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\fr\Npgsql.resources.dll
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\ja\Npgsql.resources.dll
+F:\Memory\Game Box 2.0\Game Box\Game Box\bin\Debug\zh-CN\Npgsql.resources.dll
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form1.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form10.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form11.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form12.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form13.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form14.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form2.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form3.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form4.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form5.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form6.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form7.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form8.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form9.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Properties.Resources.resources
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\GenerateResource.read.4.tlog
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Media Box.exe.manifest
+F:\Memory\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Media Box.application
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.exe.config
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Media Box.exe
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Media Box.pdb
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\MediaContent.accdb
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.exe.manifest
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.application
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.exe
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\Media Box.pdb
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\Npgsql.pdb
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\Npgsql.xml
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game Box.csprojResolveAssemblyReference.cache
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form1.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form10.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form11.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form12.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form13.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form14.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form2.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form3.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form4.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form5.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form6.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form7.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form8.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Form9.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game_Box.Properties.Resources.resources
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Game Box.csproj.GenerateResource.Cache
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Media Box.exe.manifest
+C:\Users\Lanze Zager\Desktop\Game Box 2.0\Game Box\Game Box\obj\x86\Debug\Media Box.application
